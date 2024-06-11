@@ -6,6 +6,7 @@ const App = () => {
     <div className='flex flex-col rounded-lg py-2'>
       <Header />
       <Body />
+      <p>Hello world</p>
     </div>
   );
 };
